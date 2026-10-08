@@ -1,0 +1,19 @@
+HTTrack3.50-5 launched on Thu, 08 Oct 2026 20:42:39 at https://gooal.site/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" https://gooal.site/ -O1 "C:\My Web Sites\gool" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:42:56	Warning: 	Permanent Redirect for https://gooal.site/_next/
+20:42:56	Warning: 	File has moved from https://gooal.site/_next/ to /_next
+20:42:57	Error: 	"Not Found" (404) at link https://gooal.site/_next (from https://gooal.site/_next/)
+20:42:57	Error: 	"Not Found" (404) at link https://gooal.site/_next-live/feedback/feedback.html?dpl=dpl_2BdZPgrwxc6VnubNN5fXBdZvLNyn (from https://vercel.live/_next-live/feedback/feedback.js)
+20:42:57	Warning: 	Permanent Redirect for https://gooal.site/hq-secure-dashboard/
+20:42:57	Warning: 	File has moved from https://gooal.site/hq-secure-dashboard/ to /hq-secure-dashboard
+20:42:58	Error: 	"Not Found" (404) at link https://gooal.site/cdn-cgi/challenge-platform/ (from https://challenges.cloudflare.com/turnstile/v0/g/4df4a60fa397/api.js)
+
+HTTrack Website Copier/3.50-5 mirror complete in 19 seconds : 64 links scanned, 58 files written (1559869 bytes overall) [1066754 bytes received at 56144 bytes/sec], 913339 bytes transferred using HTTP compression in 28 files, ratio 31%, 17.0 requests per connection
+(3 errors, 4 warnings, 0 messages)
+(Some links above the start directory were not mirrored. Pass -B (--can-go-up-and-down) to mirror them.)

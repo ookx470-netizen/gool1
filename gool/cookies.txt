@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+vercel.live	TRUE	/	FALSE	1999999999	_vcrr_a6f6f6d0a85bc81d	dpl_2CaSfFRHVyTgjEMdWJ6MUkaR3gbP|0.3894
+vercel.live	TRUE	/	FALSE	1999999999	SameSite	None
+
